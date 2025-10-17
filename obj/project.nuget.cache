@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6r/nXKO3QBI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zhaku\\Desktop\\Captcha\\Captcha.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zhaku\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\zhaku\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
