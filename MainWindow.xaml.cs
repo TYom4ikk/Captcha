@@ -1,4 +1,6 @@
-﻿using System.Drawing;
+﻿using System.Diagnostics.Metrics;
+using System.DirectoryServices.ActiveDirectory;
+using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
 using System.Windows;
@@ -22,17 +24,29 @@ namespace Captcha
 
         private void GenerateCaptcha()
         {
-            int width = 40*captchaLenght;
-            int height = 16*captchaLenght;
+            int width = 40 * captchaLenght;
+            int height = 16 * captchaLenght;
             captchaText = GenerateRandomText(captchaLenght);
 
             using Bitmap bitmap = new(width, height);
             using Graphics g = Graphics.FromImage(bitmap);
             g.Clear(Color.LightGray);
 
+            string[] fonts =
+            {
+                "Arial",
+                "Times New Roman",
+                "Calibri",
+                "Tahoma",
+                "Verdana",
+                "Courier New",
+                "Comic Sans MS",
+                "Georgia"
+            };
             for (int i = 0; i < captchaText.Length; i++)
             {
-                using Font font = new("Arial", random.Next(24, 32));
+                string randomFont = fonts[random.Next(fonts.Length)];
+                using Font font = new(randomFont, random.Next(24, 32));
                 Brush brush = new SolidBrush(GetRandomColor());
                 float x = 10 + i * 35 + random.Next(-5, 5);
                 float y = random.Next(10, 30);

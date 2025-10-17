@@ -42,3 +42,4 @@ C:\Users\zhaku\Desktop\Captcha\obj\Debug\net8.0-windows\refint\Captcha.dll
 C:\Users\zhaku\Desktop\Captcha\obj\Debug\net8.0-windows\Captcha.pdb
 C:\Users\zhaku\Desktop\Captcha\obj\Debug\net8.0-windows\Captcha.genruntimeconfig.cache
 C:\Users\zhaku\Desktop\Captcha\obj\Debug\net8.0-windows\ref\Captcha.dll
+C:\Users\zhaku\Desktop\Captcha\obj\Debug\net8.0-windows\Captcha.sourcelink.json
