@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\zhaku\\Desktop\\Captcha\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB6174DA-CE7F-4092-8D64-0F8F83C8D146}|Captcha.csproj|c:\\users\\zhaku\\desktop\\captcha\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB6174DA-CE7F-4092-8D64-0F8F83C8D146}|Captcha.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB6174DA-CE7F-4092-8D64-0F8F83C8D146}|Captcha.csproj|c:\\users\\zhaku\\desktop\\captcha\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CB6174DA-CE7F-4092-8D64-0F8F83C8D146}|Captcha.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB6174DA-CE7F-4092-8D64-0F8F83C8D146}|Captcha.csproj|c:\\users\\zhaku\\desktop\\captcha\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB6174DA-CE7F-4092-8D64-0F8F83C8D146}|Captcha.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,28 +18,29 @@
       "DocumentGroups": [
         {
           "DockedWidth": 215,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\Captcha\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
               "ToolTip": "C:\\Users\\zhaku\\Desktop\\Captcha\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-16T07:53:19.101Z"
+              "WhenOpened": "2025-10-16T07:53:19.101Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\zhaku\\Desktop\\Captcha\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\zhaku\\Desktop\\Captcha\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAYwC8AAABFAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAuwCYAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-16T07:53:17.137Z",
               "EditorCaption": ""
